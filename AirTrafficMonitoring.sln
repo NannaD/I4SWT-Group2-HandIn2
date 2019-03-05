@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{D1B0E803-27D8-4FAF-90A0-887995978717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Application", "ATM.Application\ATM.Application.csproj", "{2A75DE4F-D5B5-4EA3-8DEB-15801C72C583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Unit.Test", "ATM.Unit.Test\ATM.Unit.Test.csproj", "{023DB633-841B-45FD-B276-AA548418C07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B0E803-27D8-4FAF-90A0-887995978717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B0E803-27D8-4FAF-90A0-887995978717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B0E803-27D8-4FAF-90A0-887995978717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B0E803-27D8-4FAF-90A0-887995978717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A75DE4F-D5B5-4EA3-8DEB-15801C72C583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A75DE4F-D5B5-4EA3-8DEB-15801C72C583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A75DE4F-D5B5-4EA3-8DEB-15801C72C583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A75DE4F-D5B5-4EA3-8DEB-15801C72C583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023DB633-841B-45FD-B276-AA548418C07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023DB633-841B-45FD-B276-AA548418C07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023DB633-841B-45FD-B276-AA548418C07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023DB633-841B-45FD-B276-AA548418C07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80EAC6C9-7966-4A01-8BA9-C950D2C1D87A}
+	EndGlobalSection
+EndGlobal
